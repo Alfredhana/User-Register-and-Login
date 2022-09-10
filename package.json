@@ -9,7 +9,7 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "cd client && npm install && npm run build && cd .. && cd server && cd .. && npm install && npm run build && nodemon index.js"
+    "start": "cd client && npm install && npm run build && cd .. && cd server && npm install && nodemon index.js"
   },
   "repository": {
     "type": "git",
